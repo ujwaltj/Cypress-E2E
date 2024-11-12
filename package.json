@@ -1,0 +1,22 @@
+{
+  "name": "cypress-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujwaltj/Cypress-E2E.git"
+  },
+  "keywords": [],
+  "author": "Ujwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujwaltj/Cypress-E2E/issues"
+  },
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.15.2"
+  }
+}
